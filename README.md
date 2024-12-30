@@ -5,6 +5,7 @@ Its a "Browser" made in Scratch using Iframes.
 ## Why BrowserWarp?
 - No Telemetry
 - To try out an experiment
+- Because it is supporting **bookmarks**
 - Why not?
 ## Why not BrowserWarp?
 - Many Sites are blocking Iframes
